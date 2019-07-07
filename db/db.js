@@ -10,3 +10,5 @@ const items = [
         description: "Description 2"
     }
 ]
+
+export default items;
